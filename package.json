@@ -1,24 +1,7 @@
 {
-  "name": "object-assign",
-  "version": "0.3.0",
+  "name": "sindresorhus-object-assign",
   "description": "ES6 Object.assign() ponyfill",
-  "license": "MIT",
-  "main": "object-assign.js",
-  "repository": "sindresorhus/object-assign",
-  "author": {
-    "name": "Sindre Sorhus",
-    "email": "sindresorhus@gmail.com",
-    "url": "http://sindresorhus.com"
-  },
-  "engines": {
-    "node": ">=0.10.0"
-  },
-  "scripts": {
-    "test": "mocha"
-  },
-  "files": [
-    "object-assign.js"
-  ],
+  "version": "0.3.0",
   "keywords": [
     "object",
     "assign",
@@ -30,10 +13,9 @@
     "ponyfill",
     "prollyfill",
     "polyfill",
-    "shim",
-    "browser"
+    "shim"
   ],
-  "devDependencies": {
-    "mocha": "*"
-  }
+  "main": "object-assign.js",
+  "dependencies": {},
+  "license": "MIT"
 }

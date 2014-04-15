@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [sindresorhus/object-assign](http://github.com/sindresorhus/object-assign). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/sindresorhus-object-assign`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # object-assign [![Build Status](https://travis-ci.org/sindresorhus/object-assign.svg?branch=master)](https://travis-ci.org/sindresorhus/object-assign)
 
 > ES6 [`Object.assign()`](http://www.2ality.com/2014/01/object-assign.html) ponyfill
